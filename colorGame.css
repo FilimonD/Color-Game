@@ -19,6 +19,14 @@ h1 {
   margin: 0 auto;
 }
 
-span {
-  color: white;
+#stripe {
+  background: white;
+  height: 30px;
+  text-align: center;
+  color: black;
+}
+
+
+.selected {
+  background:blue;
 }
